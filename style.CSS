@@ -1,0 +1,26 @@
+html{
+    background-image: url("img depsre eduactia mea/aesthetic-cloud-background-05bsl7m2e5bh01ki.jpg");
+}
+
+ol{
+    text-align: left;
+
+}
+
+.container1{
+    background-image: url("img depsre eduactia mea/aesthetic-cloud-background-05bsl7m2e5bh01ki.jpg");
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+
+.text-body-emphasis{
+    padding-bottom: 30px;
+}
+
+button{
+    border-radius: 5%;
+    border-color: black;
+ 
+}
